@@ -31,7 +31,7 @@ Cd into Akan-names folder
 Open index.html on any browser
 
 # Live Link
-
+ https://erick-njeru.github.io/birthday-calculator/
 
 # Known Bugs
 isues about this project are correctly solved and codes easy to understand
