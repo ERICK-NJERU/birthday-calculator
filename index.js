@@ -98,9 +98,6 @@ function calculateDayValue(){
         }else if(dayValue == -0){
           alert("You were born on " +dayNames[6] + " so Your akan name is " +femaleNames[6]+"!");
         }
-      break
-      default:
-            
     }
   }
   function findName(){
