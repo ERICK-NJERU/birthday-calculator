@@ -4,10 +4,17 @@ AKAN NAMING SYSTEM.
 
 # Author
 [Erick njeru] (https://github.com/ERICK-NJERU/birthday-calculator)
+About the Author
+
+Erick is a student at https://moringaschool.com/. currently doing software engineering.
+
 
 
 # Description
 It is a website that show the names of Ghanas people which is a major naming system in Ghana
+
+# project BDD.
+this app simply requires the user to enter his/her details through a form ie. his/her year, month and date of birth. The user also checks on the appropriate gender i.e male/female. The app computes the exact day of the week that the user was born and matches it with an Akan name depending on the gender inputed. 
 
 # Screenshot
 <image src="" width="">
