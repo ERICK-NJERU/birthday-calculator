@@ -17,7 +17,11 @@ It is a website that show the names of Ghanas people which is a major naming sys
 this app simply requires the user to enter his/her details through a form ie. his/her year, month and date of birth. The user also checks on the appropriate gender i.e male/female. The app computes the exact day of the week that the user was born and matches it with an Akan name depending on the gender inputed. 
 
 # Screenshot
-<image src="screenshot.png" width="#">
+<img
+src=“screenshot.png”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
   
 # Technologies Used
 HTML

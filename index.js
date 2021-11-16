@@ -37,7 +37,9 @@ function calculateDayValue(){
     YY = parseInt(year.substring(2,4));
     MM = parseInt(document.getElementById("month").value);
     DD = parseInt(document.getElementById("date").value);
-    d = newDate(getDay())
+    d = ( ( (CC/4) -2*CC-1) + ( (5*YY/4) ) + ((26*(MM+1)/10) ) + DD)%7;
+    console.log(d);
+    return (Math.floor(d));
   }
   function getGender(){
     var genders = document.getElementsByName("gender");
